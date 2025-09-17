@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moraharmuchu&label=Profile%20views&color=4ADE80&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/moraharmuchu?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Morahar5462&label=Profile%20views&color=4ADE80&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Morahar5462?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ### 🌐 Let's Connect & Collaborate!
