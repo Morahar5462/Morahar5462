@@ -1,15 +1,15 @@
 <!-- Profile Header with Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4ADE80&background=00000000&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Morahar+Muchu;AI+%26+Full+Stack+Developer+%F0%9F%92%BB;Building+Smart+Web+Solutions+%E2%9C%A8;B.Tech+in+AI+%26+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4ADE80&background=00000000&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Morahar+Muchu;AI+%26+Java+Full+Stack+Developer+%F0%9F%92%BB;Building+Smart+Web+Solutions+%E2%9C%A8;B.Tech+in+AI+%26+Data+Science" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="350"/>
 </p>
 
-<h3 align="center">🌟 AI & Full Stack Developer | Hyderabad, India 🌟</h3>
+<h3 align="center">🌟 AI & Java Full Stack Developer | Hyderabad, India 🌟</h3>
 <p align="center">
-  <em>Transforming ideas into intelligent web & AI solutions | Passionate about Full Stack, Cloud, & AI Development</em>
+  <em>Transforming ideas into intelligent web & AI solutions | Passionate about Java Full Stack, Cloud, & AI Development</em>
 </p>
 
 <p align="center">
