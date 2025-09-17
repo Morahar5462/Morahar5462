@@ -83,59 +83,8 @@
 
 ---
 
-### 📊 My Skills (Animated Bars)
-<p align="center">
-  <img src="https://progress-bar.dev/95/?title=Java&color=FF6B9D"/>
-  <img src="https://progress-bar.dev/90/?title=Python&color=3776AB"/>
-  <img src="https://progress-bar.dev/85/?title=Spring_Boot&color=6DB33F"/>
-  <img src="https://progress-bar.dev/80/?title=React.js&color=61DAFB"/>
-  <img src="https://progress-bar.dev/75/?title=AWS_Deployment&color=FF9900"/>
-</p>
+### 📊 GitHub Stats
 
----
-
-### 🚀 Featured Projects (Interactive Links)
-
-<div align="center">
-
-#### 📱 [Student Management System](https://github.com/moraharmuchu)
-- Multi-role system (Admin/Student), CRUD operations, Angular + Java Swing UI  
-- Backend: Java, Spring Boot, Oracle DB | Dockerized & deployed on **AWS EC2/S3**  
-- CI/CD pipelines with Git, Maven, Jenkins  
-**🔧 Tech Stack:** Java | Spring Boot | Angular | Oracle | Docker | AWS  
-
-#### 🏢 [Employee Management System](https://github.com/moraharmuchu)
-- Full-stack system with React frontend, REST APIs, role-based access  
-- Cloud deployment with Docker & automated build pipelines  
-**🔧 Tech Stack:** Java | Spring Boot | React | MySQL | Docker | Cloud  
-
-#### 🤖 [Career Compass AI Platform](https://github.com/moraharmuchu)
-- AI-powered platform integrating **Google genkitAI** for personalized mock interviews, resume building, and learning path tracking  
-- Full-stack Java + Spring Boot backend and React frontend, optimized candidate ranking engine  
-**🔧 Tech Stack:** Java | Spring Boot | React | AI | MySQL | Cloud  
-
-</div>
-
----
-
-### 💡 Core Strengths
-<p align="center">
-  <img src="https://img.shields.io/badge/Problem_Solving-FF6B9D?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Integration-2196F3?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Team_Collaboration-4CAF50?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Attention_to_Detail-FF9800?style=for-the-badge&logoColor=white"/>
-</p>
-
----
-
-### ✨ Current Focus & Goals
-- 🌱 **Learning:** Advanced Microservices, Cloud Deployment, AI Integration  
-- 🎯 **Career Goal:** AI Full Stack Developer building scalable web & cloud solutions  
-- 💡 **Interests:** AI/ML pipelines, DevOps, System Design, Smart Web Applications  
-
----
-
-### 📈 GitHub Stats
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=moraharmuchu&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=4ADE80&icon_color=4ADE80&text_color=ffffff" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraharmuchu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=4ADE80&text_color=ffffff" />
@@ -145,10 +94,28 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraharmuchu&theme=dark&hide_border=true&background=0d1117&stroke=4ADE80&ring=4ADE80&fire=4ADE80&currStreakLabel=ffffff" width="70%"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moraharmuchu&bg_color=0d1117&color=4ADE80&line=4ADE80&point=ffffff&area=true&hide_border=true" width="90%"/>
+</div>
+
+---
+
+### 🤖 AI Project Contributions (Dynamic Badges)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Student_Management-4ADE80?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Career_Compass-FF6B9D?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Employee_Management-2196F3?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+<p align="center">
+  These badges auto-update as I add AI-focused contributions to my GitHub repositories.
+</p>
+
 ---
 
 <div align="center">
-  <h3>✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨</h3>
+  <h3>✨ "AI + Full Stack = Infinite Possibilities" ✨</h3>
   <p><em>Always Learning | Always Building | Always Innovating</em></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=20&fontColor=fff&animation=twinkling"/>
 </div>
