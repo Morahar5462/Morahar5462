@@ -102,7 +102,7 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
+<div align="left">
 
 #### 📱 [Student Management System](https://github.com/Morahar5462/Student_Management_System)
 - Multi-role system (Admin/Student), CRUD operations, Angular + Java Swing UI  
