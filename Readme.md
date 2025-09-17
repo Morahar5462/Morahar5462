@@ -91,11 +91,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraharmuchu&theme=dark&hide_border=true&background=0d1117&stroke=4ADE80&ring=4ADE80&fire=4ADE80&currStreakLabel=ffffff" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morahar5462&theme=dark&hide_border=true&background=0d1117&stroke=4ADE80&ring=4ADE80&fire=4ADE80&currStreakLabel=ffffff" width="70%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moraharmuchu&bg_color=0d1117&color=4ADE80&line=4ADE80&point=ffffff&area=true&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morahar5462&bg_color=0d1117&color=4ADE80&line=4ADE80&point=ffffff&area=true&hide_border=true" width="90%"/>
 </div>
 
 ---
