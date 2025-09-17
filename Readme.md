@@ -9,7 +9,7 @@
 
 <h3 align="center">🌟 AI & Full Stack Developer | Hyderabad, India 🌟</h3>
 <p align="center">
-  <em>Transforming ideas into intelligent web & AI solutions | Passionate about Full Stack, Cloud, & AI Development</em>
+  <em>Transforming ideas into intelligent web & AI solutions | Passionate about Full Stack, Java Cloud, & AI Development</em>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
   <a href="mailto:moraharmuchu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/moraharmuchu" target="_blank">
+  <a href="https://github.com/Morahar5462" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="tel:+916305696104" target="_blank">
@@ -87,7 +87,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Morahar5462&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=4ADE80&icon_color=4ADE80&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraharmuchu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=4ADE80&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morahar5462&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=4ADE80&text_color=ffffff" />
 </div>
 
 <div align="center">
