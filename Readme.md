@@ -86,7 +86,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=moraharmuchu&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=4ADE80&icon_color=4ADE80&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Morahar5462&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=4ADE80&icon_color=4ADE80&text_color=ffffff" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraharmuchu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=4ADE80&text_color=ffffff" />
 </div>
 
