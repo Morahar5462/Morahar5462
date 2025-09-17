@@ -1,15 +1,15 @@
 <!-- Profile Header with Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4ADE80&background=00000000&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Morahar+Muchu;AI+%26+Java+Full+Stack+Developer+%F0%9F%92%BB;Building+Smart+Web+Solutions+%E2%9C%A8;B.Tech+in+AI+%26+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4ADE80&background=00000000&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Morahar+Muchu;AI+%26+Full+Stack+Developer+%F0%9F%92%BB;Building+Smart+Web+Solutions+%E2%9C%A8;B.Tech+in+AI+%26+Data+Science" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="350"/>
 </p>
 
-<h3 align="center">🌟 Java Full Stack Developer | Hyderabad, India 🌟</h3>
+<h3 align="center">🌟 AI & Full Stack Developer | Hyderabad, India 🌟</h3>
 <p align="center">
-  <em>Transforming ideas into intelligent web solutions | Passionate about Full Stack, Java, Cloud, & AI Development</em>
+  <em>Transforming ideas into intelligent web & AI solutions | Passionate about Full Stack, Cloud, & AI Development</em>
 </p>
 
 <p align="center">
@@ -100,17 +100,71 @@
 
 ---
 
-### 🤖 AI Project Contributions (Dynamic Badges)
+### 🚀 Featured Projects
 
+<div align="center">
+
+#### 📱 [Student Management System](https://github.com/Morahar5462/Student_Management_System)
+- Multi-role system (Admin/Student), CRUD operations, Angular + Java Swing UI  
+- Backend: Java, Spring Boot, Oracle DB | Dockerized & deployed on **AWS EC2/S3**  
+- CI/CD pipelines with Git, Maven, Jenkins  
+**🔧 Tech Stack:** Java | Spring Boot | Angular | Oracle | Docker | AWS  
+
+#### 🏢 [Employee Management System](https://github.com/Morahar5462)
+- Full-stack system with React frontend, REST APIs, role-based access  
+- Cloud deployment with Docker & automated build pipelines  
+**🔧 Tech Stack:** Java | Spring Boot | React | MySQL | Docker | Cloud  
+
+#### 🤖 [Career Compass AI Platform](https://github.com/Morahar5462)
+- AI-powered platform integrating **Google genkitAI** for personalized mock interviews, resume building, and learning path tracking  
+- Full-stack Java + Spring Boot backend and React frontend, optimized candidate ranking engine  
+**🔧 Tech Stack:** Java | Spring Boot | React | AI | MySQL | Cloud  
+
+#### 🖼️ [FaceTrack](https://github.com/Morahar5462/FaceTrack)
+- Real-time facial recognition system using **MTCNN + FaceNet embeddings**, achieving high accuracy in identity verification  
+- Flask backend & modular frontend with role-based access  
+**🔧 Tech Stack:** Python | Flask | AI/ML | PostgreSQL  
+
+#### 💬 [Customer Service Chatbot](https://github.com/Morahar5462/Customer_Service_Chatbot)
+- AI-powered chatbot handling FAQs and dynamic responses for customer support  
+- Integrated with NLP & semantic search for high-quality answers  
+**🔧 Tech Stack:** Python | AI/ML | Flask | NLP  
+
+</div>
+
+---
+
+### 💼 Professional Experience
+
+**Junior Development Intern — Vangrove Tech Pvt Ltd** | Jul 2025 – Present  
+- Developed RESTful APIs & backend modules for AI-driven Career Compass platform  
+- Integrated AI features for **mock interviews, resume building, and learning path tracking**  
+- Handled full-stack modules (React frontend + Spring Boot backend), optimized queries with Java Collections  
+
+---
+
+### 🎓 Education
+
+**B.Tech in Artificial Intelligence & Data Science** | Vasireddy Venkatadri Institute of Technology | CGPA: 7.8/10  
+**Board of Intermediate Education (MPC)** | APRJC Nimmakuru | 96.9%  
+
+---
+
+### 💡 Core Strengths
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_Student_Management-4ADE80?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Career_Compass-FF6B9D?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Employee_Management-2196F3?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem_Solving-FF6B9D?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Team_Collaboration-4CAF50?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adaptability-2196F3?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Attention_to_Detail-FF9800?style=for-the-badge&logoColor=white"/>
 </p>
 
-<p align="center">
-  These badges auto-update as I add AI-focused contributions to my GitHub repositories.
-</p>
+---
+
+### ✨ Current Focus & Goals
+- 🌱 Currently Learning: **Advanced AI Algorithms, Microservices & Cloud Deployments**  
+- 🎯 Career Goal: **Proficient AI & Full Stack Developer**  
+- 💡 Interests: **AI/ML, DevOps, System Design, Innovative Web Solutions**  
+- 🔍 Seeking: Opportunities to **apply AI & Full Stack skills** in real-world projects  
 
 ---
 
