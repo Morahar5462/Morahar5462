@@ -1,6 +1,6 @@
 <!-- Profile Header with Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4ADE80&background=00000000&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Morahar+Muchu;AI+%26+Full+Stack+Developer+%F0%9F%92%BB;Building+Smart+Web+Solutions+%E2%9C%A8;B.Tech+in+AI+%26+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4ADE80&background=00000000&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Morahar+Muchu;AI+%26+Java+Full+Stack+Developer+%F0%9F%92%BB;Building+Smart+Web+Solutions+%E2%9C%A8;B.Tech+in+AI+%26+Data+Science" alt="Typing SVG" />
 </div>
 
 <p align="center">
