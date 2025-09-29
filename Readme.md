@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="350"/>
 </p>
 
-<h3 align="center">🌟 AI & Java Full Stack Developer | Hyderabad, India 🌟</h3>
+<h3 align="center">🌟 AI & Java Full Stack Developer</h3>
 <p align="center">
   <em>Transforming ideas into intelligent web & AI solutions | Passionate about Java Full Stack, Cloud, & AI Development</em>
 </p>
